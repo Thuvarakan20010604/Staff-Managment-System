@@ -1,0 +1,36 @@
+{"post" :[
+    
+        
+          {
+            "id": 1,
+            "name": "John Doe",
+            "age": 30,
+            "role": "Software Engineer",
+            "salary": "5000",
+            "experience": "5",
+            "tax": "500"
+          },
+          {
+            "id": 2,
+            "name": "Jane Smith",
+            "age": 28,
+            "role": "Project Manager",
+            "salary": "7000",
+            "experience": "7",
+            "tax": "700"
+          },
+          {
+            "id": 3,
+            "name": "Alice Johnson",
+            "age": 25,
+            "role": "UX Designer",
+            "salary": "4500",
+            "experience": "3",
+            "tax": "450"
+          }
+        
+      
+      
+]
+
+}
